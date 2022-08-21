@@ -1,0 +1,1 @@
+#Aviso: Os programas estão em inglês pq eu lembrei que você falou que é bom pesquisar as coisas em inglês e tals, aí eu decidi começar a programar em inglês pra me habituar e pah. 
