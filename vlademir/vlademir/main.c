@@ -82,6 +82,9 @@ void MenorCaminho(int qnt_vertices, int ** sistema_rodoviario, int**caminho, int
         //Determina o próximo vertice a ter seus adjacentes visitados
         menor = MenorAresta(caminho, visitados, qnt_vertices, i);
         peso = menor.peso;
+        if(peso >= 12){
+            peso = 24;
+        }
         origem = menor.vertice;      
     }
 }
